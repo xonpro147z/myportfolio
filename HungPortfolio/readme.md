@@ -8,8 +8,8 @@
 1. Clone the Repository:
 
   ```bash
-  git clone https://github.com/DevPhamPham/KhoaPortfolio.git
-  cd KhoaPortfolio 
+  git clone https://github.com/xonpro147z/myportfolio.git
+  cd Hungportfolio 
   ```
 
 2. Install Dependencies:
